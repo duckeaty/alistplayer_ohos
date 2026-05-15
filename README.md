@@ -1,4 +1,6 @@
 Alist播放器
+# alistplayer
+鸿蒙OS首个ALIST播放器
 
 1.可以用alist帐号直接登陆，同时可设置默认目录，支持多个添加多个Alist服务器并切换。
 
