@@ -13,11 +13,13 @@ Alist播放器
 6.丰富的功能设置，对短剧用户极度友好，自行摸索。
 
 p.s.终于完美满足了自己的需求:)
+p.s.2.感谢flymby作者提供的LIBMPV库
 
 <img width="1080" height="1920" alt="intro_1" src="https://github.com/user-attachments/assets/1e99827a-0235-4c49-9b00-48dede65354d" />
 
-<img width="1080" height="1920" alt="intro_3" src="https://github.com/user-attachments/assets/0f38aff1-4d84-4ad9-895b-314a58b4cf20" />
+<img width="1080" height="1920" alt="intro_2" src="https://github.com/user-attachments/assets/1ee6e090-8ea8-46b3-8824-de564debd2d1" />
 
 <img width="1080" height="1920" alt="intro_4" src="https://github.com/user-attachments/assets/bbc0cf72-cafb-42b1-a600-6a5865294390" />
 
-<img width="1080" height="1920" alt="intro_2" src="https://github.com/user-attachments/assets/1ee6e090-8ea8-46b3-8824-de564debd2d1" />
+<img width="1080" height="1920" alt="intro_3" src="https://github.com/user-attachments/assets/0f38aff1-4d84-4ad9-895b-314a58b4cf20" />
+
