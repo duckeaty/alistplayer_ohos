@@ -1,6 +1,10 @@
 # Alist播放器
 鸿蒙OS首个ALIST播放器
 
+邀请测试链接（用手机自带的浏览器打开）
+
+https://appgallery.huawei.com/link/invite-test-wap?taskId=b15ed44bf981b087d71daddaadf48ce4
+
 1.可以用alist帐号直接登陆，同时可设置默认目录，支持多个添加多个Alist服务器并切换。
 
 2.采用libmpv播放器，支持硬解。
