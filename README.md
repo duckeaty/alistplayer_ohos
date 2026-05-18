@@ -1,6 +1,8 @@
 # Alist播放器
 鸿蒙OS首个ALIST播放器
 
+已更新1.2.0
+
 邀请测试链接（用手机自带的浏览器打开）
 
 [https://appgallery.huawei.com/link/invite-test-wap?taskId=b15ed44bf981b087d71daddaadf48ce4](https://appgallery.huawei.com/link/invite-test-wap?taskId=b15ed44bf981b087d71daddaadf48ce4&invite=9UPxofBASzL)
@@ -11,17 +13,22 @@
 
 3.可以列表/网格/瀑布流模式浏览，目录内有封面会自动显示为目录封面，方便看短剧。
 
-4.支持调用API索引进行搜索
+4.支持影库模式，剧集播放更舒适
 
-5.支持播放进度记录，有播放记录，收藏等方便功能并直接定位目录。
+5.支持调用API索引进行搜索
 
-6.丰富的功能设置，对短剧用户极度友好，自行摸索。
+6.支持播放进度记录，有播放记录，收藏等方便功能并直接定位目录。
+
+7.丰富的功能设置，对短剧用户极度友好，自行摸索。
 
 p.s.终于完美满足了自己的需求:)
 
 p.s.2.感谢flymby作者提供的LIBMPV库
 
 <img width="1080" height="1920" alt="intro_1" src="https://github.com/user-attachments/assets/1e99827a-0235-4c49-9b00-48dede65354d" />
+
+<img width="1320" height="2120" alt="2b02e92585adbe8766401b4d51428d5e" src="https://github.com/user-attachments/assets/278d42fd-4347-4b35-8734-e1ed6a4d4dc8" />
+
 
 <img width="1080" height="1920" alt="intro_2" src="https://github.com/user-attachments/assets/1ee6e090-8ea8-46b3-8824-de564debd2d1" />
 
