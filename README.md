@@ -5,7 +5,7 @@
 
 邀请测试链接（用手机自带的浏览器打开）
 
-https://appgallery.huawei.com/link/invite-test-wap?taskId=3e5d7d5fb058ca6becc97d350844c7c7
+https://appgallery.huawei.com/link/invite-test-wap?taskId=3e5d7d5fb058ca6becc97d350844c7c7&invitationCode=9UPxofBASzL
 
 
 1.3.0更新说明：
